@@ -1,1 +1,1 @@
-# My-capstone-Project
+# In this project, I conducted a SQL-based analysis of the Parch and Posey dataset. I extracted and transformed data to identify key business trends, which I then presented through a series of visualizations and a final report.
